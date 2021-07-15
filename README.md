@@ -1,4 +1,4 @@
-# IST-IAED 2019/2020
+# IST LEIC IAED 2019/2020
 
 ## First Delivery
 Develop a logistics system in C
